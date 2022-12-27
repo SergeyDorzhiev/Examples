@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\bin\Debug\net6.0\Example012_Medhods.exe
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\bin\Debug\net6.0\Example012_Medhods.deps.json
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\bin\Debug\net6.0\Example012_Medhods.runtimeconfig.json
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\bin\Debug\net6.0\Example012_Medhods.dll
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\bin\Debug\net6.0\Example012_Medhods.pdb
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.dll
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\refint\Example012_Medhods.dll
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.pdb
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\Example012_Medhods.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Examples\Example012_Medhods\obj\Debug\net6.0\ref\Example012_Medhods.dll
